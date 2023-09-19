@@ -1,0 +1,7 @@
+transformers
+streamlit
+torch
+torchvision
+torchaudio
+numpy
+scipy
