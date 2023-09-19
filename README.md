@@ -65,7 +65,7 @@ cd `<project-directory>`
 This project was developed during the Azubi Africa Data Science Training. Below is the details of the initial collaborators of this project with respective articles covering the process of the project and their individual github profiles.
 
 | Name | Article | Github |
-| Enyonam Adzo Agbenorhevi | ------- | |
+| PETERMUTWIRI | ------- | |
 |      |         |        |
 |      |         |        |
 |      |         |        |
